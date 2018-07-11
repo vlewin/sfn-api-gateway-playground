@@ -11,6 +11,6 @@
   "devDependencies": {
     "serverless": "^1.28.0",
     "serverless-pseudo-parameters": "^1.6.0",
-    "serverless-step-functions": "github:vlewin/serverless-step-functions#master"
+    "serverless-step-functions": "github:vlewin/serverless-step-functions#add_authorizer_support"
   }
 }
